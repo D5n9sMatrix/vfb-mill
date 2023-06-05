@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvfb-mill.a CMakeFiles/vfb-mill.dir/vfb-mill.cpp.o
+/usr/bin/ranlib libvfb-mill.a

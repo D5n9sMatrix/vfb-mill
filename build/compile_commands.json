@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net/vfb-mill/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vfb-mill.dir/vfb-mill.cpp.o -c /home/denis/vfb-net/vfb-mill/vfb-mill.cpp",
+  "file": "/home/denis/vfb-net/vfb-mill/vfb-mill.cpp"
+}
+]
